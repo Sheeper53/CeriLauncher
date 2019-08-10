@@ -29,7 +29,7 @@
 [spain]     es:       
 [portugal]  pt:       
 [russia]    ru:       
-[poland]    pl:       	
+[poland]    pl:       	Zaczynajmy.
 
 [america]   en-us:    Choose your style
 [germany]   de:       
@@ -40,7 +40,7 @@
 [spain]     es:       
 [portugal]  pt:       
 [russia]    ru:       
-[poland]    pl:       	
+[poland]    pl:       	Wybierz swój styl
 
 [america]   en-us:    All apps
 [germany]   de:       
@@ -51,7 +51,7 @@
 [spain]     es:       
 [portugal]  pt:       
 [russia]    ru:       
-[poland]    pl:       	
+[poland]    pl:       Wszystkie aplikacje	
 
 [america]   en-us:    Only favorites
 [germany]   de:       
@@ -62,7 +62,7 @@
 [spain]     es:       
 [portugal]  pt:       
 [russia]    ru:       
-[poland]    pl:       	
+[poland]    pl:       	Tylko ulubione
 
 [america]   en-us:    Favorites stay at the top
 [germany]   de:       
@@ -73,7 +73,7 @@
 [spain]     es:       
 [portugal]  pt:       
 [russia]    ru:       
-[poland]    pl:       	
+[poland]    pl:       	Ulubione zostają na górze
 
 [america]   en-us:    Just your favorites, nothing else
 [germany]   de:       
@@ -84,7 +84,7 @@
 [spain]     es:       
 [portugal]  pt:       
 [russia]    ru:       
-[poland]    pl:       	
+[poland]    pl:       	Tylko ulubione, nic więcej
 
 [america]   en-us:    Swipe down to search
 [germany]   de:       
@@ -95,7 +95,7 @@
 [spain]     es:       
 [portugal]  pt:       
 [russia]    ru:       
-[poland]    pl:       	
+[poland]    pl:       	Pociągnij w dół, aby wyszukać
 
 [america]   en-us:    One last thing
 [germany]   de:       
@@ -106,7 +106,7 @@
 [spain]     es:       
 [portugal]  pt:       
 [russia]    ru:       
-[poland]    pl:       	
+[poland]    pl:       	Jeszcze tylko jedna rzecz
 
 [america]   en-us:    Unlike some other launchers, this one does not collect or send any information from your device, for analytics, advertising or any other purpose. This means I rely completely on user feedback to help make Ceri Launcher better. Please consider joining the Ceri Launcher subreddit or sending me an email with your thoughts. I'd appreciate it a lot! - jckpn
 [germany]   de:       
@@ -117,7 +117,7 @@
 [spain]     es:       
 [portugal]  pt:       
 [russia]    ru:       
-[poland]    pl:       	
+[poland]    pl:       	W porównaniu do innych aplikacji, ta nie zbiera, ani nie wysyła danych z twojego telefonu, do analizy, reklam, czy czegokolwiek innego. To oznacza, że opieram się tylko i wyłącznie na opinii użytkowników, aby ulepszać Ceri Launcher. Proszę rozważ dołączenie do subreddit'u Ceri Launcher lub wysłanie mi email'a z twoją opinią. Ogromnie to doceniam! - jckpn
 
 
 
